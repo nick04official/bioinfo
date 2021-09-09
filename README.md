@@ -9,8 +9,8 @@ These results are a part of the developed for the Bioinformatics course at Polit
 
 ## Version 1: ConvLSTM
 
-(https://github.com/nick04official/bioinfo/blob/main/convLSTM.png)
+![ConvLSTM](https://github.com/nick04official/bioinfo/blob/main/convLSTM.png)
 
 ## Version 2: RecurrentCRISPR
 
-(https://github.com/nick04official/bioinfo/blob/main/rcrispr.png)
+![RCRISPR](https://github.com/nick04official/bioinfo/blob/main/rcrispr.png)
