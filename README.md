@@ -5,7 +5,7 @@
 
 _RNN-based architecture for sgRNA efficacy prediction and classification_
 
-These results are a part of the developed for the Bioinformatics course at Politecnico di Torino.
+These results are a part of the project developed for the Bioinformatics course at Politecnico di Torino.
 
 ## Version 1: ConvLSTM
 
